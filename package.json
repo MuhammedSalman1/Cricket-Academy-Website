@@ -1,0 +1,17 @@
+{
+  "name": "academy",
+  "version": "1.0.0",
+  "description": "this is a website for academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "salman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "pug": "^3.0.2"
+  }
+}
